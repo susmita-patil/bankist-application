@@ -10,10 +10,10 @@
 // DIFFERENT DATA! Contains movement dates, currency and locale
 
 const account1 = {
-  owner: 'Jonas Schmedtmann',
+  owner: 'T E S T U S E R',
   movements: [200, 455.23, -306.5, 25000, -642.21, -133.9, 79.97, 1300],
   interestRate: 1.2, // %
-  pin: 1111,
+  pin: 1234,
 
   movementsDates: [
     '2019-11-18T21:31:17.178Z',
